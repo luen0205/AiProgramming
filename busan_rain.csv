@@ -1,4 +1,4 @@
-일시,평균기온(°C),최저기온(°C),최고기온(°C),강수 계속시간(hr),10분 최다 강수량(mm),1시간 최다강수량(mm),일강수량(mm),최대 풍속(m/s),평균 풍속(m/s),최소 상대습도(%),평균 상대습도(%),
+DATE,AVG_TEMP(째C),MIN_TEMP(째C),MAX_TEMP(째C),DUR_RAIN(hr),MAX_RAIN_FOR_10MIN(mm),MAX_RAIN_FOR_1H(mm),DAILY_RAIN(mm),MAX_WIND_VELOCITY(m/s),AVG_WIND_VELOCITY(m/s),MIN_REL_HUMIDITY(%),AVG_REL_HUMIDITY(%),
 1934-01-01,-0.8,-2.7,2.6,,,,0,7.9,5.1,34,50,
 1934-01-02,0,-4.7,4.9,,,,,5.2,2.5,41,48,
 1934-01-03,-1,-3.7,1.6,,,,,6.5,4.7,28,40,
