@@ -1,4 +1,4 @@
-﻿일시,평균기온(°C),최저기온(°C),최고기온(°C),10분 최다 강수량(mm),1시간 최다강수량(mm),일강수량(mm),최대 풍속(m/s),평균 풍속(m/s),최소 상대습도(%),평균 상대습도(%)
+﻿DATE,AVG_TEMP(°C),MIN_TEMP(°C),MAX_TEMP(°C),MAX_RAIN_FOR_10MIN(mm),MAX_RAIN_FOR_1H(mm),DAILY_RAIN(mm),MAX_WIND_VELOCITY(m/s),AVG_WIND_VELOCITY(m/s),MIN_REL_HUMIDITY(%),AVG_REL_HUMIDITY(%)
 1973-05-01,15.4,14,17.8,2,6.5,19.6,8,3.9,65,89.8
 1973-05-02,16.4,12.8,22.2,1,2.5,3.6,7,2.7,53,77
 1973-05-03,14.3,10.2,18.3,,,,5,2.2,53,67.5
